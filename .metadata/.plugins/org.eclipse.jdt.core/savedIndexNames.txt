@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+C:\Users\vagne\Workspace\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+4175780512.index
+2112246634.index
+2932457042.index
+1673597388.index
+3513739060.index
+3941787393.index
+1625233026.index
+3170831738.index
+1642859290.index
+2658510328.index
+1309659238.index
+3267537234.index
+384514956.index
+3641169521.index

@@ -1,0 +1,3 @@
+#
+#Wed Nov 03 19:41:22 BRT 2021
+task-tag-projects-already-scanned=ExercicioFIXbanco,ExListEmplyees,ExercicioEnumContratos1,exercicioFIX1,exerciciosJava,ExerFixQuartoHotel,exercicioFIX3,matriz2,exercicioFIX2,exercicioMatriz,exercicioDOLAR

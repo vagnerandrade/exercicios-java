@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;exercicos02java&apos; to &apos;exercicios02java&apos;&#x0D;&#x0A;- Original project: &apos;exerciciosJava&apos;&#x0D;&#x0A;- Original element: &apos;exerciciosJava/src/exercicos02java&apos;&#x0D;&#x0A;- Renamed element: &apos;exerciciosJava/src/exercicios02java&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;exercicos02java&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;exercicos02java" name="exercicios02java" qualified="false" references="true" stamp="1618091748234" textual="false" version="1.0"/>
+</session>
